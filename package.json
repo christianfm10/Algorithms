@@ -1,0 +1,17 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms implementation. Based on Introduction to algorithms 3rd Edition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Christian",
+  "license": "ISC",
+  "dependecies": {
+    "chalk": "^5.1.2"
+  }
+}
